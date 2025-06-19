@@ -1,0 +1,31 @@
+h2{
+    color: red;
+    font-family: sans-serif;
+}
+p{
+    color:aqua;
+    font-family: fantasy;
+}
+ul{
+    list-style-image: url('images/pointer-icon.png');
+}
+ol{
+    list-style-type: upper-roman;
+}
+#Menu-Bar a{
+    text-decoration: none;
+    background-color: aquamarine;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 5px;
+}
+#Menu-Bar a:hover{
+    background-color: aqua
+}
+#Pinterest p{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 15px;
+}
+#Pinterest a{
+    text-decoration: none;
+}
